@@ -1,7 +1,8 @@
 ## 화면 구현(30시간)
 - 1일차(2시간)	
-	- UI 및 UI 표준 및 지침, 설계 도구
-	- UI 설계서 작성
+	- UI 및 UI 표준 및 지침, 설계 도구 - <a href='https://github.com/yonggyo1125/JavaSpringA/blob/master/1.%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%ED%98%84(30%EC%8B%9C%EA%B0%84)/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%95%9C%EA%B5%AD%ED%98%95%20%EC%9B%B9%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EC%A0%91%EA%B7%BC%EC%84%B1%20%EC%A7%80%EC%B9%A8%202.1.pdf'>참고자료</a>
+	- UI 설계서 작성 - <a href='https://yslife.tistory.com/241'>참고 자료</a>
+		
 		
 - 1~3일차(10시간) - HTML,CSS
 	- <a href='https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20HTML'>강의자료1 - HTML</a>
