@@ -2,6 +2,8 @@
 - 1일차(2시간) - DBMS 설치 및 설치 완료 보고서 작성하기
 	- 오라클11g 다운로드
 	- dbweaver 다운로드	
+	- 설치 완료 보고서
+	
 	
 - 2~7일차(22시간) - 오라클로 배우는 데이터베이스 입문
 	- <a href='https://github.com/yonggyo1125/curriculumOracle/tree/master/10%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%B6%94%EA%B0%80%2C%20%EC%88%98%EC%A0%95%2C%20%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A1%B0%EC%9E%91%EC%96%B4'>10 데이터를 추가, 수정, 삭제하는 데이터 조작어</a>
