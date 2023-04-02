@@ -1,7 +1,7 @@
 # 자바(JAVA)기반 스프링 응용 SW 개발자 양성과정
 - 총 280시간
 - [훈련생 TMS 접속](https://koritic.cafe24.com/student/index.php)
-# - [소스공유폴더](https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=share_link)
+<!-- - [소스공유폴더](https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=share_link) -->
 - [화면구현평가안내](https://drive.google.com/file/d/1nJj3FjQXIkPOOeCkyw5RZAgl83THqgfd/view?usp=share_link)
 
 * * * 
