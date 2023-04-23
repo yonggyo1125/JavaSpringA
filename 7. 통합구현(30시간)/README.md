@@ -10,7 +10,7 @@
 	- @ExceptionHandler
 	
 - 5~7일차(11시간)
-	- 연계 인터페이스 명세서
+	- <a href='https://drive.google.com/drive/folders/1tJHZpL0pDyEzfxe0uIf55ACM7bgOfjON?usp=share_link'>연계 인터페이스 명세서</a>
 	- REST 방식으로 회원가입, 로그인 구현하기
 	
 - 8일차(3시간) - 본평가 진행
