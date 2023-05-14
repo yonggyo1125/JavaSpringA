@@ -97,7 +97,11 @@
 	- 컴포넌트 스캔
 	- AOP 프로그래밍
 	- jdbcTemplate, 트랜잭션
-
+	
+	<br>
+	<a href="https://drive.google.com/drive/folders/14idVo1wAEY4M6er_gMrMZTCYbK8kOQuN?usp=share_link">[동영상1]</a>
+	<a href="https://drive.google.com/drive/folders/1JyVX2ee2_Lye2zeKuCKZuj6yP1zWL4Q-?usp=share_link">[동영상2]</a>
+	<a href="https://drive.google.com/drive/folders/1YbazsncZeXGEWanp4WspRlsXKmOyHRID?usp=share_link">[동영상3]</a>
 - 10일차(2시간) - 본평가 진행
 
 * * * 
