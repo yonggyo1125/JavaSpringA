@@ -102,7 +102,7 @@
 	<a href="https://drive.google.com/drive/folders/14idVo1wAEY4M6er_gMrMZTCYbK8kOQuN?usp=share_link">[동영상1]</a>
 	<a href="https://drive.google.com/drive/folders/1JyVX2ee2_Lye2zeKuCKZuj6yP1zWL4Q-?usp=share_link">[동영상2]</a>
 	<a href="https://drive.google.com/drive/folders/1YbazsncZeXGEWanp4WspRlsXKmOyHRID?usp=share_link">[동영상3]</a>
-	<a href="https://drive.google.com/drive/folders/1Eu3wl9GIVdIxFUaxLTGVIAgqpr3ZsCZ0?usp=share_link">[동영상4]</
+	<a href="https://drive.google.com/drive/folders/1AtuPRzfFHwDIigOrgnDNNwcLq4_dYuef?usp=share_link">[동영상4]</a>
 - 10일차(2시간) - 본평가 진행
 
 * * * 
@@ -122,6 +122,14 @@
 	- 프로필과 프로퍼티 파일
 - 10일차(2시간) - 스프링 부트 - @Scheduler
 - 10일차(2시간) - 본평가 진행 
+
+<br>
+<a href="https://drive.google.com/drive/folders/1A114MRV9XMW28xtBnK3_Bo8xT8obQSIn?usp=share_link">[동영상1]</a>
+<a href="https://drive.google.com/drive/folders/12Gw5hxEeq2PnE0uDMqjw2ce903NJnZvN?usp=share_link">[동영상2]</a>
+<a href="https://drive.google.com/drive/folders/1YMKPZweOOgem8c9PJfVQPsoWPK8rC0oB?usp=share_link">[동영상3]</a>
+<a href="https://drive.google.com/drive/folders/1w90twU2PUZoHR7eP29HQiDuLvdFxIomn?usp=share_link">[동영상4]</a>
+<a href="https://drive.google.com/drive/folders/1SMEUNTAMvn9Dz5DtaV7Hpe4iJ_NXJPFp?usp=share_link">[동영상5]</a>
+<a href="https://drive.google.com/drive/folders/1MvXvKGiE8taBsAtkhKgwllPZQcKNJxF8?usp=share_link">[동영상6]</a>
 
 * * * 
 ## 통합구현(30시간)
